@@ -4,7 +4,7 @@ This repository contains an implementation of the Bridge structural design patte
 
 ## Files
 
-###Java
+### Java
 - **BridgePatternExample.java**: Contains the main class demonstrating the usage of the Bridge pattern with example shapes.
 - **Circle.java**: Defines the `Circle` class, which is a concrete implementation of the `Shape` interface. It uses the Bridge pattern to set its color independently.
 - **Color.java**: Defines the `Color` interface, which represents the abstraction for colors used in shapes.
